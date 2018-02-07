@@ -18,9 +18,9 @@ npm i
 ```sh
 # start a live reloading dev server
 npm run dev
-```
 
-App running on <http://localhost:3000>
+# App now running on http://localhost:3000
+```
 
 **Production build/server**
 
@@ -30,6 +30,6 @@ npm run build
 
 # run it
 npm start
-```
 
-App running on <http://localhost:3000>
+# App now running on http://localhost:3000
+```
