@@ -1,0 +1,11 @@
+.imdone
+.DS_Store
+.idea
+*.gz
+*.log
+*.out
+*.pid
+*.seed
+.next
+docker-compose.*.yml
+node_modules
