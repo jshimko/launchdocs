@@ -20,6 +20,8 @@ npm i
 npm run dev
 ```
 
+App running on <http://localhost:3000>
+
 **Production build/server**
 
 ```sh
@@ -29,3 +31,5 @@ npm run build
 # run it
 npm start
 ```
+
+App running on <http://localhost:3000>
